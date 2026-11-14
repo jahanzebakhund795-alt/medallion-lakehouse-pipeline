@@ -1,0 +1,42 @@
+{
+  "moving_average_mae": 1.5555555555555554,
+  "naive_mae": 2.0,
+  "predictions": [
+    {
+      "actual": 16,
+      "moving_average": 14.0,
+      "naive": 15,
+      "period": 6
+    },
+    {
+      "actual": 14,
+      "moving_average": 14.666666666666666,
+      "naive": 16,
+      "period": 7
+    },
+    {
+      "actual": 17,
+      "moving_average": 15.0,
+      "naive": 14,
+      "period": 8
+    },
+    {
+      "actual": 18,
+      "moving_average": 15.666666666666666,
+      "naive": 17,
+      "period": 9
+    },
+    {
+      "actual": 16,
+      "moving_average": 16.333333333333332,
+      "naive": 18,
+      "period": 10
+    },
+    {
+      "actual": 19,
+      "moving_average": 17.0,
+      "naive": 16,
+      "period": 11
+    }
+  ]
+}

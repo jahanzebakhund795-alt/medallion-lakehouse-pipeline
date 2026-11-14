@@ -1,0 +1,20 @@
+{
+  "missing_features": 1,
+  "training_rows": [
+    {
+      "at": 3,
+      "entity": "a",
+      "feature_value": 10
+    },
+    {
+      "at": 5,
+      "entity": "a",
+      "feature_value": 40
+    },
+    {
+      "at": 5,
+      "entity": "b",
+      "feature_value": null
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "features": [
+    {
+      "entity": "a",
+      "event_at": 1,
+      "available_at": 2,
+      "value": 10
+    },
+    {
+      "entity": "a",
+      "event_at": 3,
+      "available_at": 8,
+      "value": 30
+    },
+    {
+      "entity": "a",
+      "event_at": 4,
+      "available_at": 4,
+      "value": 40
+    }
+  ],
+  "labels": [
+    {
+      "entity": "a",
+      "at": 3
+    },
+    {
+      "entity": "a",
+      "at": 5
+    },
+    {
+      "entity": "b",
+      "at": 5
+    }
+  ]
+}
