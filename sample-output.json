@@ -1,0 +1,56 @@
+{
+  "bronze": [
+    {
+      "cents": "100",
+      "id": "a",
+      "region": "west",
+      "version": 1
+    },
+    {
+      "cents": "120",
+      "id": "a",
+      "region": "west",
+      "version": 2
+    },
+    {
+      "cents": "bad",
+      "id": "b",
+      "region": "east",
+      "version": 1
+    },
+    {
+      "cents": "80",
+      "id": "c",
+      "region": "west",
+      "version": 1
+    }
+  ],
+  "gold": {
+    "WEST": 200
+  },
+  "quarantine": [
+    {
+      "reason": "invalid literal for int() with base 10: 'bad'",
+      "record": {
+        "cents": "bad",
+        "id": "b",
+        "region": "east",
+        "version": 1
+      }
+    }
+  ],
+  "silver": [
+    {
+      "cents": 120,
+      "id": "a",
+      "region": "WEST",
+      "version": 2
+    },
+    {
+      "cents": 80,
+      "id": "c",
+      "region": "WEST",
+      "version": 1
+    }
+  ]
+}

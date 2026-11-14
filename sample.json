@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "id": "a",
+      "region": "west",
+      "cents": "100",
+      "version": 1
+    },
+    {
+      "id": "a",
+      "region": "west",
+      "cents": "120",
+      "version": 2
+    },
+    {
+      "id": "b",
+      "region": "east",
+      "cents": "bad",
+      "version": 1
+    },
+    {
+      "id": "c",
+      "region": "west",
+      "cents": "80",
+      "version": 1
+    }
+  ]
+}
